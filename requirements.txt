@@ -1,0 +1,11 @@
+numpy
+opencv-python-headless
+pandas
+pyarrow
+pillow
+pycocotools
+ultralytics
+transformers==4.57.1
+scipy
+huggingface_hub
+matplotlib
