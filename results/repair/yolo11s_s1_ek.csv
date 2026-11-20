@@ -1,0 +1,13 @@
+model,seed,n,corruption,param,mAP,mAP50,AR100,sec
+yolo11s_s1,1,500,block_dropout,0.03,51.48,77.33,60.60,14
+yolo11s_s1,1,500,block_dropout,0.08,39.41,65.31,49.38,12
+yolo11s_s1,1,500,block_dropout,0.15,25.27,48.47,35.07,12
+yolo11s_s1,1,500,block_dropout_interp,0.03,60.93,84.69,68.50,25
+yolo11s_s1,1,500,block_dropout_interp,0.08,58.09,81.56,65.62,29
+yolo11s_s1,1,500,block_dropout_interp,0.15,53.34,76.87,62.62,30
+yolo11s_s1,1,500,sensor_noise_light,1000,61.11,84.53,68.49,81
+yolo11s_s1,1,500,sensor_noise_light,200,54.78,78.47,63.40,88
+yolo11s_s1,1,500,haze_heavy,0.25,44.32,63.23,52.53,14
+yolo11s_s1,1,500,haze_heavy,0.15,30.40,44.92,40.31,13
+yolo11s_s1,1,500,thin_cloud_heavy,0.9,57.02,79.81,64.95,33
+yolo11s_s1,1,500,thin_cloud_heavy,1.0,54.07,76.54,61.69,33

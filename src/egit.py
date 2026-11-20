@@ -32,7 +32,7 @@ def main():
     a = argparse.ArgumentParser()
     a.add_argument('--arch', default='yolo11s')
     a.add_argument('--seed', type=int, default=0)
-    a.add_argument('--epochs', type=int, default=12)
+    a.add_argument('--epochs', type=int, default=10)
     a.add_argument('--n', type=int, default=500)
     a.add_argument('--veri', default='/workspace/dior')
     a.add_argument('--out', default='/workspace/results')

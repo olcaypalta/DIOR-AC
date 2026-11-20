@@ -1,0 +1,4 @@
+model,seed,n,corruption,severity,repair,mAP,mAP50,AR100,sec
+yolo11s_s2,2,500,clean,0,satir_doldur,63.97,85.96,70.21,20
+yolo11s_s2,2,500,clean,0,serit_gider,62.53,84.63,68.96,19
+yolo11s_s2,2,500,clean,0,gurultu_gider,53.32,77.20,60.84,87

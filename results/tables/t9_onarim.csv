@@ -1,0 +1,19 @@
+arch,corruption,severity,repair,clean,degraded,repaired,R
+yolo11m,line_dropout,1,satir_doldur,63.74 ± 0.63,36.13 ± 0.92,63.74 ± 0.56,1.00 ± 0.00
+yolo11m,line_dropout,2,satir_doldur,63.74 ± 0.63,12.67 ± 1.32,63.57 ± 0.79,1.00 ± 0.00
+yolo11m,line_dropout,3,satir_doldur,63.74 ± 0.63,3.47 ± 0.98,63.44 ± 0.82,0.99 ± 0.01
+yolo11m,sensor_noise,1,gurultu_gider,63.74 ± 0.63,35.07 ± 0.28,56.00 ± 0.98,0.73 ± 0.02
+yolo11m,sensor_noise,2,gurultu_gider,63.74 ± 0.63,15.84 ± 0.76,30.14 ± 0.72,0.30 ± 0.02
+yolo11m,sensor_noise,3,gurultu_gider,63.74 ± 0.63,5.67 ± 0.32,5.78 ± 0.41,0.00 ± 0.00
+yolo11m,stripe_noise,1,serit_gider,63.74 ± 0.63,55.92 ± 2.12,62.28 ± 0.79,0.81 ± 0.01
+yolo11m,stripe_noise,2,serit_gider,63.74 ± 0.63,33.74 ± 4.97,62.19 ± 0.90,0.95 ± 0.00
+yolo11m,stripe_noise,3,serit_gider,63.74 ± 0.63,14.92 ± 3.77,61.93 ± 0.93,0.96 ± 0.00
+yolo11s,line_dropout,1,satir_doldur,62.32 ± 1.52,34.17 ± 1.30,62.28 ± 1.51,1.00 ± 0.00
+yolo11s,line_dropout,2,satir_doldur,62.32 ± 1.52,13.72 ± 1.17,62.17 ± 1.54,1.00 ± 0.00
+yolo11s,line_dropout,3,satir_doldur,62.32 ± 1.52,3.98 ± 0.11,62.01 ± 1.75,0.99 ± 0.00
+yolo11s,sensor_noise,1,gurultu_gider,62.32 ± 1.52,37.26 ± 0.30,54.78 ± 1.92,0.70 ± 0.05
+yolo11s,sensor_noise,2,gurultu_gider,62.32 ± 1.52,19.70 ± 0.24,29.47 ± 1.59,0.23 ± 0.04
+yolo11s,sensor_noise,3,gurultu_gider,62.32 ± 1.52,7.12 ± 1.04,7.29 ± 1.13,0.00 ± 0.00
+yolo11s,stripe_noise,1,serit_gider,62.32 ± 1.52,52.66 ± 2.28,60.88 ± 1.54,0.85 ± 0.02
+yolo11s,stripe_noise,2,serit_gider,62.32 ± 1.52,33.00 ± 4.27,60.70 ± 1.51,0.94 ± 0.00
+yolo11s,stripe_noise,3,serit_gider,62.32 ± 1.52,16.21 ± 2.93,60.12 ± 1.62,0.95 ± 0.01

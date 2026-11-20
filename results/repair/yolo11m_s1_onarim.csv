@@ -1,0 +1,10 @@
+model,seed,n,corruption,severity,repair,mAP,mAP50,AR100,sec
+yolo11m_s1,1,500,line_dropout,1,satir_doldur,63.28,86.64,70.41,18
+yolo11m_s1,1,500,line_dropout,2,satir_doldur,62.79,86.57,69.71,18
+yolo11m_s1,1,500,line_dropout,3,satir_doldur,62.89,86.02,69.82,16
+yolo11m_s1,1,500,stripe_noise,1,serit_gider,61.73,84.95,68.70,23
+yolo11m_s1,1,500,stripe_noise,2,serit_gider,61.44,84.74,68.30,23
+yolo11m_s1,1,500,stripe_noise,3,serit_gider,61.16,84.22,67.95,23
+yolo11m_s1,1,500,sensor_noise,1,gurultu_gider,55.64,78.75,63.39,147
+yolo11m_s1,1,500,sensor_noise,2,gurultu_gider,30.79,44.51,38.75,148
+yolo11m_s1,1,500,sensor_noise,3,gurultu_gider,5.32,7.98,8.01,136
